@@ -1,2 +1,2 @@
 # nttdsltrojan
-Gdi (noskid)
+Gdi (skid)
